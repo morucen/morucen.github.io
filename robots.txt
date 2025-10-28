@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://morucen.github.io/Jia/sitemap.txt
